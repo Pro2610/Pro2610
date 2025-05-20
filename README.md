@@ -28,6 +28,13 @@ Reconstructed user journeys and calculated conversion rates per page.
 Unified international and rising search trends for global analysis using SQL.
 
 ---
+## 📚 Courses & Certifications
+
+- 🧠 **Data Analytics Course** – GoIT (IT School)
+- 📊 **"SQL para Análise de Dados: Do básico ao avançado"** – Udemy
+- 🧮 **Do Básico ao Avançado - O Curso Completo de Microsoft Excel** – Udemy
+- 📈 **Tratativas de Dados no Excel via Power Query** – Udemy
+
 
 ## 📫 Let's Connect
 
