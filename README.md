@@ -5,12 +5,31 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 
 ---
 
-## 🛠️ Skills
+## 💼 About Me
 
-- **Techniques:** A/B Testing, KPI Analysis, Funnel Metrics, Data Cleaning
-- **Other:** GA4, Google Sheets, Google Trends, Marketing Data, UTM Campaign Tracking, Looker Studio
+- 🎓 Background in Mathematics and Data Analytics
+- 📊 Experienced in creating KPI dashboards and analytical reports
+- 🛠 Tools I use: Excel, PostgreSQL, Tableau, Looker Studio, BigQuery, Google Sheets, Google Analytics 4, Python
+- 🌱 Currently exploring Power Query and advanced Excel automation
+- 🎯 Goal: Entry-level role in data analytics or business intelligence
+---
+
+## 🧠 Skills & Tools
+
+**Languages & Databases:**
+- SQL (PostgreSQL, BigQuery)
+- Python (pandas, Jupyter)
+
+**Data Tools:**
+- Tableau, Looker Studio, Google Analytics 4
+- Google Sheets, Excel (Pivot Tables, Formulas, Charts)
+- Power Query (learning in progress)
+
+**Business Knowledge:**
+- KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
+
+---
   
-## 🧠 Languages & Tools
 
 <p align="left">
   <!-- Python -->
