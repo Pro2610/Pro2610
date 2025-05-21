@@ -25,14 +25,17 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
   <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" width="40" height="40"/>
 
-  <!-- Looker Studio -->
-  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" title="Looker Studio" width="40" height="40"/>
+  
+  <!-- Looker Studio (PNG fallback) -->
+  <img src="https://static.wikia.nocookie.net/logopedia/images/f/f0/Looker_Studio_logo.png" title="Looker Studio" width="40" height="40"/>
+
 
   <!-- Google BigQuery -->
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" title="BigQuery" width="40" height="40"/>
 
-  <!-- Google Sheets -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Sheets_2020_Logo.svg" title="Google Sheets" width="40" height="40"/>
+ <!-- Google Sheets (PNG fallback) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Sheets_logo_%282014-2020%29.png/600px-Google_Sheets_logo_%282014-2020%29.png" title="Google Sheets" width="40" height="40"/>
+
 
   <!-- Google Analytics 4 -->
   <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" title="Google Analytics 4" width="40" height="40"/>
