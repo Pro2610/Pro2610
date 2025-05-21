@@ -10,7 +10,14 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 - **Visualization:** Tableau, Looker Studio, Google Sheets
 - **Techniques:** A/B Testing, KPI Analysis, Funnel Metrics, Data Cleaning
 - **Other:** GA4, Google Trends, Marketing Data, UTM Campaign Tracking
+- 
+## 🧠 Languages & Tools
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
