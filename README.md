@@ -20,13 +20,13 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
 
   <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" title="Excel" width="40" height="40"/>
 
   <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" width="40" height="40"/>
 
   <!-- Looker Studio -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Looker-icon.svg/2048px-Looker-icon.svg.png" title="Looker Studio" width="40" height="40"/>
+  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_looker_studio.svg" title="Looker Studio" width="40" height="40"/>
 
   <!-- Google BigQuery -->
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" title="BigQuery" width="40" height="40"/>
@@ -35,7 +35,7 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Sheets_2020_Logo.svg" title="Google Sheets" width="40" height="40"/>
 
   <!-- Google Analytics 4 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Google_Analytics_4_logo.svg" title="Google Analytics 4" width="40" height="40"/>
+  <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" title="Google Analytics 4" width="40" height="40"/>
 </p>
 
 ## 🚀 Featured Projects
