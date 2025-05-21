@@ -9,15 +9,34 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 
 - **Techniques:** A/B Testing, KPI Analysis, Funnel Metrics, Data Cleaning
 - **Other:** GA4, Google Trends, Marketing Data, UTM Campaign Tracking
-- 
+  
 ## 🧠 Languages & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/>
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
+
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Excel" width="40" height="40"/>
+
+  <!-- Tableau -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" width="40" height="40"/>
+
+  <!-- Looker Studio -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Looker-icon.svg/2048px-Looker-icon.svg.png" title="Looker Studio" width="40" height="40"/>
+
+  <!-- Google BigQuery -->
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" title="BigQuery" width="40" height="40"/>
+
+  <!-- Google Sheets -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Sheets_2020_Logo.svg" title="Google Sheets" width="40" height="40"/>
+
+  <!-- Google Analytics 4 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Google_Analytics_4_logo.svg" title="Google Analytics 4" width="40" height="40"/>
+</p>
 
 ## 🚀 Featured Projects
 
