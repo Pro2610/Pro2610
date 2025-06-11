@@ -72,7 +72,7 @@ Unified international and rising search trends for global analysis using SQL.
 - 📊 **SQL para Análise de Dados: Do básico ao avançado** – Udemy
 - 🧮 **Do Básico ao Avançado - O Curso Completo de Microsoft Excel** – Udemy
 - 📈 **Tratativas de Dados no Excel via Power Query** – Udemy
-
+- 📌 **Excel 365 do Zero ao Avançado com Dash+PowerQuery+Exercícios** - Udemy
 
 ## 📫 Let's Connect
 
