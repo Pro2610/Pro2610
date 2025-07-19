@@ -41,8 +41,8 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
   <!-- Excel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Excel" width="40" height="40"/>
 
-  <!-- Tableau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" width="40" height="40"/>
+ <!-- Tableau -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" title="Tableau" width="40" height="40"/>
 
   <!-- Google BigQuery -->
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" title="BigQuery" width="40" height="40"/>
