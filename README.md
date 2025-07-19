@@ -41,6 +41,9 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
   <!-- Excel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Excel" width="40" height="40"/>
 
+  <!-- Google Sheets -->
+<img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" title="Google Sheets" width="40" height="40"/>
+
  <!-- Tableau -->
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg" title="Tableau" width="40" height="40" style="filter: invert(14%) sepia(94%) saturate(3554%) hue-rotate(196deg) brightness(91%) contrast(97%);" />
 
