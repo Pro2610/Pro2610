@@ -21,9 +21,9 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 - Python (pandas, Jupyter)
 
 **Data Tools:**
-- Tableau, Looker Studio, Google Analytics 4
+- Tableau, Power BI, Looker Studio, Google Analytics 4
 - Google Sheets, Excel (Pivot Tables, Formulas, Charts)
-- Power Query (learning in progress)
+- Power Query 
 
 **Business Knowledge:**
 - KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
