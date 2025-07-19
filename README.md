@@ -49,7 +49,6 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 
   <!-- Google Analytics 4 -->
   <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" title="Google Analytics 4" width="40" height="40"/>
-</p>
 
   <!-- Power BI -->
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="40" height="40"/>
