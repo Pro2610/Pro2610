@@ -52,7 +52,7 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 </p>
 
 <!-- Power BI -->
-<img src="https://seeklogo.com/images/P/power-bi-logo-0B5EFDCFD4-seeklogo.com.png" title="Power BI" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="40" height="40"/>
 
 
 ## 🚀 Featured Projects
