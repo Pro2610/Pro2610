@@ -51,6 +51,10 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
   <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg" title="Google Analytics 4" width="40" height="40"/>
 </p>
 
+<!-- Power BI -->
+<img src="https://seeklogo.com/images/P/power-bi-logo-0B5EFDCFD4-seeklogo.com.png" title="Power BI" width="40" height="40"/>
+
+
 ## 🚀 Featured Projects
 
 🔹 **[Ride the Data: Austin’s Bikeshare Analysis](https://github.com/Pro2610/austin-bikeshare-analysis)**  
