@@ -55,7 +55,7 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="Power BI" width="40" height="40"/>
 
 <!-- Looker Studio -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Google_Data_Studio_logo.svg/2048px-Google_Data_Studio_logo.svg.png" title="Looker Studio" width="40" height="40"/>
+<img src="https://lookerstudio.google.com/favicon.ico" title="Looker Studio" width="40" height="40"/>
 
 ## 🚀 Featured Projects
 
