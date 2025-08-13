@@ -14,19 +14,41 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 - 🎯 Goal: Entry-level role in data analytics or business intelligence
 ---
 
-## 🧠 Skills & Tools
+🧠 Skills & Tools
 
-**Languages & Databases:**
-- SQL (PostgreSQL, BigQuery)
-- Python (pandas, Jupyter)
+Languages & Databases:
 
-**Data Tools:**
-- Tableau, Power BI, Looker Studio, Google Analytics 4
-- Google Sheets, Excel (Pivot Tables, Formulas, Charts)
-- Power Query 
+SQL (PostgreSQL, BigQuery, SQLite)
 
-**Business Knowledge:**
-- KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
+Python (Pandas, PyArrow, Jupyter Notebook)
+
+Data Tools & Orchestration:
+
+Prefect 2 (ETL orchestration)
+
+Tableau, Power BI, Looker Studio, Google Analytics 4
+
+Google Sheets, Excel (Pivot Tables, Formulas, Charts)
+
+Power Query
+
+Data Engineering & Processing:
+
+ETL pipeline design
+
+Batch ingestion from CSV/Excel
+
+API data extraction (planned)
+
+Data cleaning & validation
+
+Parquet data handling
+
+Database loading
+
+Business Knowledge:
+
+KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
 
 ---
   
