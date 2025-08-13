@@ -16,15 +16,15 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 
 🧠 Skills & Tools
 
-Languages & Databases:
+💻 Languages & Databases
 
-SQL (PostgreSQL, BigQuery, SQLite)
+SQL: PostgreSQL, BigQuery, SQLite
 
-Python (Pandas, PyArrow, Jupyter Notebook)
+Python: Pandas, PyArrow, Jupyter Notebook
 
-Data Tools & Orchestration:
+⚙️ Data Tools & Orchestration
 
-Prefect 2 (ETL orchestration)
+Prefect 2 — ETL orchestration
 
 Tableau, Power BI, Looker Studio, Google Analytics 4
 
@@ -32,7 +32,7 @@ Google Sheets, Excel (Pivot Tables, Formulas, Charts)
 
 Power Query
 
-Data Engineering & Processing:
+🗄 Data Engineering & Processing
 
 ETL pipeline design
 
@@ -46,10 +46,15 @@ Parquet data handling
 
 Database loading
 
-Business Knowledge:
+📊 Business Knowledge
 
-KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
+KPI reporting
 
+E-commerce analytics
+
+A/B Testing
+
+Data cleaning
 ---
   
 
