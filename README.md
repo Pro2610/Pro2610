@@ -109,6 +109,7 @@ Unified international and rising search trends for global analysis using SQL.
 - 🧮 **Do Básico ao Avançado - O Curso Completo de Microsoft Excel** – Udemy
 - 📈 **Tratativas de Dados no Excel via Power Query** – Udemy
 - 📌 **Excel 365 do Zero ao Avançado com Dash+PowerQuery+Exercícios** - Udemy
+- 📊 **Mathematics for Data Science** - Karpov.Courses
 
 ## 📫 Let's Connect
 
