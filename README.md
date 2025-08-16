@@ -34,27 +34,11 @@ Power Query
 
 🗄 Data Engineering & Processing
 ---
-ETL pipeline design
-
-Batch ingestion from CSV/Excel
-
-API data extraction (planned)
-
-Data cleaning & validation
-
-Parquet data handling
-
-Database loading
+ETL pipeline design, Batch ingestion from CSV/Excel, API data extraction (planned), Data cleaning & validation, Parquet data handling, Database loading
 
 📊 Business Knowledge
 ---
-KPI reporting
-
-E-commerce analytics
-
-A/B Testing
-
-Data cleaning
+KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
 
 ---
   
