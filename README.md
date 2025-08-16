@@ -88,8 +88,7 @@ Data cleaning
 <img src="https://lookerstudio.google.com/favicon.ico" title="Looker Studio" width="40" height="40"/>
 
 <!-- Figma -->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=whiteм width="40" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
 
 ## 🚀 Featured Projects
 
