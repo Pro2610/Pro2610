@@ -24,8 +24,6 @@ Python: Pandas, PyArrow, Jupyter Notebook
 
 ⚙️ Data Tools & Orchestration
 ---
-Prefect 2 — ETL orchestration
-
 Tableau, Power BI, Looker Studio, Google Analytics 4
 
 Google Sheets, Excel (Pivot Tables, Formulas, Charts)
