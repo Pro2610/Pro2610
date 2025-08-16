@@ -87,6 +87,9 @@ Data cleaning
   <!-- Looker Studio -->
 <img src="https://lookerstudio.google.com/favicon.ico" title="Looker Studio" width="40" height="40"/>
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
 ## 🚀 Featured Projects
 
 🔹 **[Ride the Data: Austin’s Bikeshare Analysis](https://github.com/Pro2610/austin-bikeshare-analysis)**  
