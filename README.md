@@ -90,8 +90,8 @@ Data cleaning
 <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
 
-   <!-- Jira -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jira.svg" title="Jira" width="40" height="40"/>
+  <!-- Jira -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>
 
 ## 🚀 Featured Projects
 
