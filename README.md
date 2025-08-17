@@ -87,6 +87,12 @@ KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
   <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
 
+   <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>
+
 ## 🚀 Featured Projects
 
 🔹 **[Ride the Data: Austin’s Bikeshare Analysis](https://github.com/Pro2610/austin-bikeshare-analysis)**  
