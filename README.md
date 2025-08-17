@@ -93,19 +93,6 @@ KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
   <!-- Scikit-learn -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>
 
-## 🚀 Featured Projects
-
-🔹 **[Ride the Data: Austin’s Bikeshare Analysis](https://github.com/Pro2610/austin-bikeshare-analysis)**  
-Analyzed ride trends, user types, and most popular stations using BigQuery + Tableau.
-
-🔹 **[Marketing Campaign Performance Dashboard](https://github.com/Pro2610/multi-channel-ads-analysis)**  
-Combined Facebook & Google Ads data, calculated CTR, CPC, ROMI, and built a cross-channel dashboard.
-
-🔹 **[GA4 Conversion Funnel Analysis](https://github.com/Pro2610/ga4-conversion-analysis)**  
-Reconstructed user journeys and calculated conversion rates per page.
-
-🔹 **[Google Trends Aggregator](https://github.com/Pro2610/google-trends-aggregator)**  
-Unified international and rising search trends for global analysis using SQL.
 
 ---
 ## 📚 Courses & Certifications
