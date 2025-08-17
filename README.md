@@ -7,12 +7,13 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 
 ## 💼 About Me
 
-- 🎓 Background in Mathematics and Data Analytics
-- 📊 Experienced in creating KPI dashboards and analytical reports
-- 🛠 Tools I use: Excel, PostgreSQL, Tableau, Looker Studio, BigQuery, Google Sheets, Google Analytics 4, Python
-- 🌱 Currently exploring Power Query and advanced Excel automation
-- 🎯 Goal: Entry-level role in data analytics or business intelligence
----
+- 🎓 Strong background in Mathematics with a focus on Data Analytics  
+- 📊 Skilled in building KPI dashboards, business reports, and data visualizations  
+- 🛠 Experienced with SQL (PostgreSQL, BigQuery), Excel/Google Sheets, and BI tools (Tableau, Power BI, Looker Studio)  
+- 🧩 Proficient in Python for data analysis (Pandas, NumPy, Jupyter) and automation  
+- 🛠 Familiar with Git, VS Code, Figma, and Jira for collaboration and project management  
+- 🌱 Currently learning Power Query and exploring advanced Excel automation  
+- 🎯 Goal: Grow as a Data Analyst / BI Analyst and contribute to data-driven decision-making  
 
 🧠 Skills & Tools
 ---
