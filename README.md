@@ -94,6 +94,7 @@ KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
   <!-- Scikit-learn -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mermaid_Logo.svg" title="Mermaid" width="40" height="40"/>
 
 ---
 ## 📚 Courses & Certifications
