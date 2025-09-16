@@ -13,7 +13,7 @@ I specialize in SQL, Tableau, Excel, and data visualization — and I love turni
 - 🧩 Proficient in Python for data analysis (Pandas, NumPy, Jupyter) and automation  
 - 🛠 Familiar with Git, VS Code, Figma, and Jira for collaboration and project management  
 - 🌱 Currently learning Power Query and exploring advanced Excel automation  
-- 🎯 Goal: Grow as a Data Analyst / BI Analyst and contribute to data-driven decision-making  
+
 
 🧠 Skills & Tools
 ---
