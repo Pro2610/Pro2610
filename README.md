@@ -105,6 +105,7 @@ KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
 - 📌 **Excel 365 do Zero ao Avançado com Dash+PowerQuery+Exercícios** - Udemy
 - 📊 **Data Analysis and Statistical Inference in R.** - Prometheus
 - 📈 **Python. Data Structures** - Prometheus
+- 🧠 **Mathematics for Data Science**
 
 ## 📫 Let's Connect
 
