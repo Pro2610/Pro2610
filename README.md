@@ -25,12 +25,12 @@ I work at the intersection of **business requirements, system logic, and data**,
 - Jira / Confluence • Agile / Scrum  
 
 ### 📊 **Data & BI Analytics**
-- SQL (PostgreSQL, BigQuery) — data queries, metrics, ad-hoc analysis  
-- Excel / Google Sheets — KPI dashboards, dynamic reports, formulas  
-- Tableau, Power BI, Looker Studio — interactive data visualization  
+- SQL (PostgreSQL, BigQuery) - data queries, metrics, ad-hoc analysis  
+- Excel / Google Sheets - KPI dashboards, dynamic reports, formulas  
+- Tableau, Power BI, Looker Studio - interactive data visualization  
 
 ### 🐍 **Data Processing**
-- Python (Pandas, NumPy, Jupyter) — data cleaning & automation  
+- Python (Pandas, NumPy, Jupyter) - data cleaning & automation  
 - ETL basics • CSV / Excel ingestion • data validation  
 
 ### 🧠 **Domain Knowledge**
