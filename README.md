@@ -1,45 +1,76 @@
-# 👩‍💻 Yana Prozhuhan — Junior Data Analyst
+👩‍💼 Yana Prozhuhan — Junior Business Analyst | Data Analyst
 
-Welcome! I'm a junior data analyst passionate about transforming raw data into clear, actionable insights.  
-I specialize in SQL, Tableau, Excel, and data visualization — and I love turning complex datasets into meaningful stories that support decision-making.
+Welcome! I'm a Junior Business Analyst with a strong foundation in data analytics and business intelligence.
+I work at the intersection of business requirements, system logic, and data, helping to design efficient, user-friendly solutions that improve decision-making and product experience.
 
----
+💼 About Me
 
-## 💼 About Me
+💡 Currently working as a Junior Business Analyst — defining requirements, writing user stories, and building feature documentation
 
-- 🎓 Strong background in Mathematics with a focus on Data Analytics  
-- 📊 Skilled in building KPI dashboards, business reports, and data visualizations  
-- 🛠 Experienced with SQL (PostgreSQL, BigQuery), Excel/Google Sheets, and BI tools (Tableau, Power BI, Looker Studio)  
-- 🧩 Proficient in Python for data analysis (Pandas, NumPy, Jupyter) and automation  
-- 🛠 Familiar with Git, VS Code, Figma, and Jira for collaboration and project management  
-- 🌱 Currently learning Power Query and exploring advanced Excel automation  
+🧭 Skilled in Figma prototyping (forms, dashboards, merchant interfaces) and UX flow design for complex systems
 
+📋 Experienced with Jira, creating detailed Business Context, User Stories, Acceptance Criteria, and Technical Notes
 
-🧠 Skills & Tools
----
-💻 Languages & Databases
----
-SQL: PostgreSQL, BigQuery, SQLite
+🧠 Background in Data Analytics: SQL, KPIs, dashboards, and insights that support business strategy
 
-Python: Pandas, PyArrow, Jupyter Notebook
+🛠 Combine analytical thinking with clear business communication to bridge gaps between product, dev, and design teams
 
-⚙️ Data Tools & Orchestration
----
-Tableau, Power BI, Looker Studio, Google Analytics 4
+🌱 Currently improving in UI/UX structure, requirements analysis, and process documentation
 
-Google Sheets, Excel (Pivot Tables, Formulas, Charts)
+🧩 Skills & Tools
+💻 Business Analysis & Documentation
 
-Power Query
+Business Contexts • User Stories • Acceptance Criteria
 
-🗄 Data Engineering & Processing
----
-ETL pipeline design, Batch ingestion from CSV/Excel, API data extraction (planned), Data cleaning & validation, Parquet data handling, Database loading
+Figma wireframes & clickable prototypes
 
-📊 Business Knowledge
----
-KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
+Process mapping (flows, state diagrams, data fields grouping)
 
----
+Jira / Confluence • Agile / Scrum
+
+📊 Data & BI Analytics
+
+SQL (PostgreSQL, BigQuery) — data queries, metrics, ad-hoc analysis
+
+Excel / Google Sheets — KPI dashboards, dynamic reports, formulas
+
+Tableau, Power BI, Looker Studio — interactive data visualization
+
+🐍 Data Processing
+
+Python (Pandas, NumPy, Jupyter) — data cleaning & automation
+
+ETL basics • CSV / Excel ingestion • data validation
+
+🧠 Domain Knowledge
+
+Payments & Merchant systems
+
+KPI & revenue metrics
+
+E-commerce analytics
+
+A/B testing basics
+
+Business logic modeling
+
+🎯 What I Do Now
+
+Write and maintain business requirements for new UI modules
+
+Design and organize form layouts and permission structures in Figma
+
+Collaborate with developers to ensure alignment between business goals and technical logic
+
+Review existing workflows and propose process improvements
+
+🌱 Currently Learning
+
+Advanced UI/UX documentation for product requirements
+
+Power Query for faster Excel/Sheets automation
+
+API logic and backend-frontend interaction basics
   
 
 <p align="left">
@@ -111,7 +142,7 @@ KPI reporting, E-commerce analytics, A/B Testing, Data cleaning
 
 - 💼 [LinkedIn](#) *((https://www.linkedin.com/in/yana-prozhuhan/))*
 - 📧 yana.prozhuhan@gmail.com  
-- 🌍 Based in Portugal, working remotely and open to junior data roles
+- 🌍 Based in Portugal, working remotely
 
 ---
 
