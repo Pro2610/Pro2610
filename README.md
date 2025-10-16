@@ -7,7 +7,7 @@ I work at the intersection of **business requirements, system logic, and data**,
 
 ## 💼 **About Me**
 
-- 💡 Currently working as a **Junior Business Analyst** — defining requirements, writing user stories, and building feature documentation  
+- 💡 Currently working as a **Junior Business Analyst** - defining requirements, writing user stories, and building feature documentation  
 - 🧭 Skilled in **Figma prototyping** (forms, dashboards, merchant interfaces) and **UX flow design** for complex systems  
 - 📋 Experienced with **Jira**, creating detailed **Business Context**, **User Stories**, **Acceptance Criteria**, and **Technical Notes**  
 - 🧠 Background in **Data Analytics**: SQL, KPIs, dashboards, and insights that support business strategy  
