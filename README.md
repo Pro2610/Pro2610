@@ -55,7 +55,7 @@ I work at the intersection of **business requirements, system logic, and data**,
 - **Power Query** for faster Excel/Sheets automation  
 - **API logic** and backend–frontend interaction basics  
 
-
+---
 <p align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
